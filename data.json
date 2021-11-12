@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Dot Bike Classic-MR866",
+    "price": 210,
+    "rating": 5,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Dot Bike Express-MR868",
+    "price": 260,
+    "rating": 5,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Dot Bike Ladies-MR8O8",
+    "price": 200,
+    "rating": 4,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Dot Bike Express-MR868",
+    "price": 250,
+    "rating": 4,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/5.png"
+  },
+  {
+    "id": 5,
+    "name": "Dot Bike Classic-MR868",
+    "price": 320,
+    "rating": 5,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/6.png"
+  },
+  {
+    "id": 6,
+    "name": "Dot Bike Modern-MR868",
+    "price": 270,
+    "rating": 4,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/7.png"
+  },
+  {
+    "id": 7,
+    "name": "Dot Bike Express-MR868",
+    "price": 300,
+    "rating": 5,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/5.png"
+  },
+  {
+    "id": 8,
+    "name": "Dot Bike Classic-MR868",
+    "price": 280,
+    "rating": 4,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/6.png"
+  },
+  {
+    "id": 9,
+    "name": "Dot Bike Modern-MR868",
+    "price": 350,
+    "rating": 4,
+    "image": "https://web.dotthemes.com/html/dotbike-preview/dotbike/img/product/7.png"
+  }
+]
