@@ -9,7 +9,7 @@ const ObjectId = require("mongodb").ObjectId;
 
 const port = process.env.PORT || 5000;
 
-const serviceAccount = require("path/to/bicycle-summit-firebase-adminsdk.json");
+const serviceAccount = require("./bicycle-summit-firebase-adminsdk.json");
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
@@ -19,7 +19,7 @@ admin.initializeApp({
 app.use(cors());
 app.use(express.json());
 
-const uri = "mongodb+srv://hossen:5wHZkLDgtcn8nkBG@cluster0.wvjnf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const uri = "mongodb+srv://admin:bmGg8an0PrgclOj4@cluster0.wvjnf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 
 const client = new MongoClient(uri, {
   useNewUrlParser: true,
